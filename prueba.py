@@ -2,6 +2,6 @@ def suma(a,b):
     c=a+b
     print("el resultado de la suma es...",c)
     return c
-n1=int(input())
-n2=int(input())
+n1=2
+n2=3
 suma(n1,n2)
